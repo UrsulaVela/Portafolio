@@ -611,7 +611,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 65%;
+    width: 100%;
   }
 }
 
@@ -624,7 +624,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 95%;
+    width: 100%;
   }
 }
 
@@ -637,7 +637,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 80%;
+    width: 100%;
   }
 }
 
@@ -650,7 +650,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 70%;
+    width: 100%;
   }
 }
 
@@ -663,7 +663,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 60%;
+    width: 100%;
   }
 }
 
@@ -676,7 +676,7 @@ h2.titleBackground {
     width: 0;
   }
   100% {
-    width: 99%;
+    width: 100%;
   }
 }
 
